@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on software and electrical engineering-related projects
 - 📫 How to reach me through my email josephmbugua968@gmail.com
-- ⚡ Fun fact: I think am hot
+- ⚡ Fun fact: governments are organized criminals
 
 <!---
 Joseph-Mbugua/Joseph-Mbugua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
